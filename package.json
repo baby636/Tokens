@@ -38,15 +38,15 @@
     "truffle-hdwallet-provider": "0.0.3"
   },
   "devDependencies": {
-    "coveralls": "3.0.0",
-    "eslint": "4.18.2",
+    "coveralls": "3.0.10",
+    "eslint": "8.15.0",
     "eslint-config-airbnb": "16.1.0",
-    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-import": "2.27.4",
     "eslint-plugin-jsx-a11y": "6.0.3",
     "eslint-plugin-mocha": "4.11.0",
     "eslint-plugin-node": "5.1.0",
-    "eslint-plugin-react": "7.5.1",
-    "solhint": "^2.3.0",
-    "solidity-coverage": "^0.7.1"
+    "eslint-plugin-react": "7.10.0",
+    "solhint": "^3.5.1",
+    "solidity-coverage": "^0.8.12"
   }
 }
